@@ -57,6 +57,8 @@ MCP servers enhance the capabilities of foundation models (FMs) in several key w
 
 Get started quickly with one-click installation buttons for popular MCP clients. Click the buttons below to install servers directly in CodeBuddy, Cursor or VS Code:
 
+MCP Server List Sync With **[TencentCloud Developer MCP Market](https://cloud.tencent.com/developer/mcp)**.
+
 | Server Name | Description | Install |
 |-------------|-------------|---------|
 | [EdgeOne Pages MCP](src/edgeone-pages-mcp) | The MCP server based on EdgeOne Pages supports code deployment as an online page. | [![Install](https://img.shields.io/badge/Install-Cursor-blue?style=flat-square&logo=cursor)](https://cursor.com/en/install-mcp?name=edgeone-pages-mcp-server&config=eyJjb21tYW5kIjoibnB4IGVkZ2VvbmUtcGFnZXMtbWNwIiwiZGlzYWJsZWQiOmZhbHNlLCJhdXRvQXBwcm92ZSI6W10sImVudiI6eyJFREdFT05FX1BBR0VTX0FQSV9UT0tFTiI6IiIsIkVER0VPTkVfUEFHRVNfUFJPSkVDVF9OQU1FIjoiIn19) <br/> [![Install VS Code](https://img.shields.io/badge/Install-VS_Code-FF9900?style=flat-square&logo=visualstudiocode&logoColor=white)](https://insiders.vscode.dev/redirect/mcp/install?name=edgeone-pages-mcp-server&config=%7B%22command%22%3A%22npx%22%2C%22args%22%3A%5B%22edgeone-pages-mcp%22%5D%2C%22env%22%3A%7B%22EDGEONE_PAGES_API_TOKEN%22%3A%22%22%2C%22EDGEONE_PAGES_PROJECT_NAME%22%3A%22%22%7D%7D) |

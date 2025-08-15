@@ -60,6 +60,8 @@ MCP 服务通过以下几种关键方式增强基础模型(FM)的能力：
 
 ### 🚀开始使用腾讯云
 
+MCP Server 列表 与 **[腾讯云云开发者社区 MCP 广场](https://cloud.tencent.com/developer/mcp)** 同步。
+
 |  服务名称 | 描述 | 安装 |
 |-------------|-------------|---------|
 | [EdgeOne Pages](src/edgeone-pages-mcp) | 基于 EdgeOne Pages 的 MCP 服务器，支持代码部署为在线页面 | [![Install](https://img.shields.io/badge/Install-Cursor-blue?style=flat-square&logo=cursor)](https://cursor.com/en/install-mcp?name=edgeone-pages-mcp-server&config=eyJjb21tYW5kIjoibnB4IGVkZ2VvbmUtcGFnZXMtbWNwIiwiZGlzYWJsZWQiOmZhbHNlLCJhdXRvQXBwcm92ZSI6W10sImVudiI6eyJFREdFT05FX1BBR0VTX0FQSV9UT0tFTiI6IiIsIkVER0VPTkVfUEFHRVNfUFJPSkVDVF9OQU1FIjoiIn19) <br/> [![Install VS Code](https://img.shields.io/badge/Install-VS_Code-FF9900?style=flat-square&logo=visualstudiocode&logoColor=white)](https://insiders.vscode.dev/redirect/mcp/install?name=edgeone-pages-mcp-server&config=%7B%22command%22%3A%22npx%22%2C%22args%22%3A%5B%22edgeone-pages-mcp%22%5D%2C%22env%22%3A%7B%22EDGEONE_PAGES_API_TOKEN%22%3A%22%22%2C%22EDGEONE_PAGES_PROJECT_NAME%22%3A%22%22%7D%7D) |
